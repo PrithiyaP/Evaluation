@@ -1,0 +1,24 @@
+/* navigation */
+.navbar{
+padding-left:800px;
+background-color: blue;
+}
+/* sidebar */
+.sidecontent{
+height: 100vh;
+}
+.sidenav{
+width: 200px;
+background-color: beige;
+}
+.home{
+
+margin: 0px;
+}
+.sidecontent {
+background-image: url("https://cdn.pixabay.com/photo/2018/03/04/09/51/space-3197611_1280.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center ;
+overflow-y: none;
+}

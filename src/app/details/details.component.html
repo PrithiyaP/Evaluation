@@ -1,0 +1,17 @@
+
+<button mat-raised-button color="primary" (click)="additems()"class="additems">Add Items</button>
+<ag-grid-angular
+    style="width: 100%; height: 750px"
+    class="ag-theme-alpine"
+    [columnDefs]="columnDefs"
+    [defaultColDef]="defaultColDef"
+    [rowData]="rowData"
+    [rowSelection]="'multiple'"
+    [animateRows]="true"
+    [pagination]="true"
+    (gridReady)="onGridReady($event)"
+  ></ag-grid-angular>
+
+
+
+

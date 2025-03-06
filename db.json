@@ -1,0 +1,16 @@
+{
+    "items":[
+
+ {
+    "itemno": "1",
+    "itemdesc": "item #1 ",
+    "locid": "TN-01",
+    "locdesc": "Chennai location",
+    "snapshotid": "100101",
+    "Timestamp": "21/08/23",
+    "Quantity": "500"
+  }
+
+]
+
+}
